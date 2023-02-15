@@ -1,0 +1,572 @@
+Change_sound: "&cThe sound has been successfully modified"
+Change_of_trail: "&cThe trail has been successfully modified"
+Change_message: "&cThe message has been successfully modified"
+Change_color_message: "&cThe message color has been successfully modified"
+Change_frame: "&cThe frame has been successfully modified"
+No_permissions: "&cYou don't have permissions"
+CantChangeTrails: "&cYou can't change the trails at the moment"
+Death_Message: '&c[Death]:Your time has come %player_dead%'
+KillCount: '&c%killer% killed %KillCount% players'
+BedBreakCount: '&c%player% destroyed %BedBreakCount% beds'
+ComingSoon: "&cComing Soon"
+Inventory_name: "&cTrails"
+Arrow_name: "&cArrow trails"
+Arrow_description: "&cArrow mark"
+Walk_name: "&cWalk trails"
+Walk_description: "&cWalk mark"
+Kill_name: "&cKill trails"
+Kill_description: "&cKill mark"
+Message_name: "&cDeath message"
+Message_description: "&cDeath message"
+Sound_name: "&cDeath sound"
+Sound_description: "&cDeath sound"
+Bed_break_name: "&cBed break trails"
+Bed_break_description: "&cBead break mark"
+Sign_name: "&cGG ChatColor"
+Sign_description: "&cGG ChatColor"
+Frame_name: "&cCustom Spray"
+Frame_description: "&cCustom Spray"
+Back: "&cBack"
+BackSet: true
+Command: 'null'
+Lobby: true
+
+Arrow_Inventory:
+  Arrow_Inventory_Name: "&cArrow trails"
+  1:
+    Name: "&cFireWork Spark"
+    Description: "&cFireWork Spark"
+  2:
+    Name: "&cHeart"
+    Description: "&cHeart"
+  3:
+     Name: "&cSlime"
+     Description: "&cSlime"
+  4:
+     Name: "&cWater Particle"
+     Description: "&cWater Particle"
+  5:
+     Name: "&cAngry Villager"
+     Description: "&cAngry Villager"
+  6:
+     Name: "&cHappy Villager"
+     Description: "&cHappy Villager"
+  7:
+     Name: "&cSpell"
+     Description: "&cSpell"
+  8:
+     Name: "&cMagic Crit"
+     Description: "&cMagic Crit"
+  9:
+     Name: "&cFlame"
+     Description: "&cFlame"
+  10:
+    Name: "&cEnd Rod"
+    Description: "&cEnd Rod"
+  11:
+    Name: "&cSnow"
+    Description: "&cSnow"
+  12:
+    Name: "&cPortal"
+    Description: "&cPortal"
+  13:
+    Name: "&cDiamond"
+    Description: "&cDiamond"
+  14:
+    Name: "&cGold"
+    Description: "&cGold"
+  15:
+    Name: "&cNote"
+    Description: "&cNote"
+  16:
+    Name: "&cDamage"
+    Description: "&cDamage"
+  17:
+    Name: "&cSpell Witch"
+    Description: "&cSpell Witch"
+  18:
+    Name: "&cFalling Honey"
+    Description: "&cFalling Honey"
+  19:
+    Name: "&cFalling Lava"
+    Description: "&cFalling Lava"
+  20:
+    Name: "&cSquid"
+    Description: "&cSquid"
+  21:
+    Name: "&cNautilus"
+    Description: "&cNautilus"
+  22:
+    Name: "&cTotem"
+    Description: "&cTotem"
+  Default: "&cDefault"
+  Back: "&cBack"
+  Next_Page: "&cNext page"
+
+Walk_Inventory:
+    Walk_Inventory_Name: "&cWalk trails"
+    1:
+      Name: "&cDiamond ore"
+      Description: "&cDiamond ore"
+    2:
+      Name: "&cGold Ore"
+      Description: "&cGold Ore"
+    3:
+      Name: "&cEmerald Ore"
+      Description: "&cEmerald Ore"
+    4:
+      Name: "&cWhite Glass"
+      Description: "&cWhite Glass"
+    5:
+      Name: "&cPink Glass"
+      Description: "&cPink Glass"
+    6:
+      Name: "&cGlass"
+      Description: "&cGlass"
+    7:
+      Name: "&cRed Glass"
+      Description: "&cRed Glass"
+    8:
+      Name: "&cNether Quartz Ore"
+      Description: "&cNether Quartz Ore"
+    9:
+      Name: "&cRedstone Ore"
+      Description: "&cRedstone Ore"
+    10:
+      Name: "&cLapis Ore"
+      Description: "&cLapis Ore"
+    11:
+      Name: "&cBlue Glass"
+      Description: "&cBlue Glass"
+    12:
+      Name: "&cPink Concrete"
+      Description: "&cPink Concrete"
+    13:
+      Name: "&cLime Concrete"
+      Description: "&cLime Concrete"
+    14:
+      Name: "&cYellow Concrete"
+      Description: "&cYellow Concrete"
+    15:
+      Name: "&cBlue Concrete"
+      Description: "&cBlue Concrete"
+    16:
+      Name: "&cMagenta Concrete"
+      Description: "&cMagenta Concrete"
+    17:
+      Name: "&cOrange Concrete"
+      Description: "&cOrange Concrete"
+    18:
+      Name: "&cWhite Concrete"
+      Description: "&cWhite Concrete"
+    19:
+      Name: "&cCyan Concrete"
+      Description: "&cCyan Concrete"
+    20:
+      Name: "&cRed Concrete"
+      Description: "&cRed Concrete"
+    21:
+      Name: "&cPurple Concrete"
+      Description: "&cPurple Concrete"
+    22:
+      Name: "&cBlack Concrete"
+      Description: "&cBlack Concrete"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"
+Kill_Inventory:
+    Kill_Inventory_Name: "&cKill trails"
+    1:
+      Name: "&cFireWork"
+      Description: "&cFireWork"
+    2:
+      Name: "&cLightning"
+      Description: "&cLightning"
+    3:
+      Name: "&cSquid FireWork"
+      Description: "&cSquid FireWork"
+    4:
+      Name: "&cTNT"
+      Description: "&cTNT"
+    5:
+      Name: "&cOrk Head FireWork"
+      Description: "&cOrk Head FireWork"
+    6:
+      Name: "&cCookie Fountain"
+      Description: "&cCookie Fountain"
+    7:
+      Name: "&cSmoke"
+      Description: "&cSmoke"
+    8:
+      Name: "&cGold Rain"
+      Description: "&cGold Rain"
+    9:
+      Name: "&cFlame"
+      Description: "&cFlame"
+    10:
+      Name: "&cBlood"
+      Description: "&cBlood"
+    11:
+      Name: "&cChicken post"
+      Description: "&cChicken post"
+    12:
+      Name: "&cRabbit"
+      Description: "&cRabbit"
+    13:
+      Name: "&cBat"
+      Description: "&cBat"
+    14:
+      Name: "&cCow FireWork"
+      Description: "&cCow FireWork"
+    15:
+      Name: "&cPumpkin FireWork"
+      Description: "&cPumpkin FireWork"
+    16:
+      Name: "&cRain"
+      Description: "&cRain"
+    17:
+      Name: "&cGlass"
+      Description: "&cGlass"
+    18:
+      Name: "&cTornado"
+      Description: "&cTornado"
+    19:
+      Name: "&cGuardian"
+      Description: "&cGuardian"
+    20:
+      Name: "&cDeath"
+      Description: "&cDeath"
+    21:
+      Name: "&cGhosts"
+      Description: "&cGhosts"
+    22:
+      Name: "&cTomb"
+      Description: "&cTomb"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "Next page"
+Death_Message_Inventory:
+    Death_Message_Inventory_Name: '&cDeath Message'
+    1:
+      Name: "%player_dead% is pulled on Max''s HUGE sword %player_killed%"
+      Description: "%player_dead% is pulled on Max''s HUGE sword %player_killed%"
+    2:
+      Name: "%player_dead% was yelled at by %player_killed%"
+      Description: "%player_dead% was yelled at by %player_killed%"
+    3:
+      Name: "%player_dead% was thrown off the lawn by %player_killed%"
+      Description: "%player_dead% was thrown off the lawn by %player_killed%"
+    4:
+      Name: "%player_dead% was accidentally spit on by %player_killed%"
+      Description: "%player_dead% was accidentally spit on by %player_killed%"
+    5:
+      Name: "%player_dead% slipped on the fake teeth of %player_killed%"
+      Description: "%player_dead% slipped on the fake teeth of %player_killed%"
+    6:
+      Name: "%player_dead% was chased away by %player_killed%"
+      Description: "%player_dead% was chased away by %player_killed%"
+    7:
+      Name: "%player_dead% was wrapped into a gift by %player_killed%"
+      Description: "%player_dead% was wrapped into a gift by %player_killed%"
+    8:
+      Name: "%player_dead% was wrapped into a gift by %player_killed%"
+      Description: "%player_dead% was wrapped into a gift by %player_killed%"
+    9:
+      Name: "%player_dead% was put on the naughty list by %player_killed%"
+      Description: "%player_dead% was put on the naughty list by %player_killed%"
+    10:
+      Name: "%player_dead% was pushed down a slope by %player_killed%"
+      Description: "%player_dead% was pushed down a slope by %player_killed%"
+    11:
+      Name: "%player_dead% was turned ro gingerbread by %player_killed%''s Golem"
+      Description: "%player_dead% was turned ro gingerbread by %player_killed%''s Golem"
+    12:
+      Name: "%player_dead% was stomped by %player_killed%"
+      Description: "%player_dead% was stomped by %player_killed%"
+    13:
+      Name: "%player_dead% thrown down a pit by %player_killed%"
+      Description: "%player_dead% thrown down a pit by %player_killed%"
+    14:
+      Name: "%player_dead% was shot by %player_killed%"
+      Description: "%player_dead% was shot by %player_killed%"
+    15:
+      Name: "%player_dead% was thrown to the ground by %player_killed%"
+      Description: "%player_dead% was thrown to the ground by %player_killed%"
+    16:
+      Name: "%player_dead% was outclassed by %player_killed%"
+      Description: "%player_dead% was outclassed by %player_killed%"
+    17:
+      Name: "%player_dead% was crushed into moon dust by %player_killed%'"
+      Description: "%player_dead% was crushed into moon dust by %player_killed%'"
+    18:
+      Name: "%player_dead% was sent the wrong way by %player_killed%"
+      Description: "%player_dead% was sent the wrong way by %player_killed%"
+    19:
+      Name: "%player_dead% was hit by an asteroid from %player_killed%"
+      Description: "%player_dead% was hit by an asteroid from %player_killed%"
+    20:
+      Name: "%player_dead% was blasted to the moon by %player_killed%"
+      Description: "%player_dead% was blasted to the moon by %player_killed%"
+    21:
+      Name: "%player_dead% was blown up by %player_killed%"
+      Description: "%player_dead% was blown up by %player_killed%"
+    22:
+      Name: "%player_dead% was whacked with a party balloon by %player_killed%"
+      Description: "%player_dead% was whacked with a party balloon by %player_killed%"
+    23:
+      Name: "%player_dead% was popped into the void by %player_killed%"
+      Description: "%player_dead% was popped into the void by %player_killed%"
+    24:
+      Name: "%player_dead% was shot with a roman candle by %player_killed%"
+      Description: "%player_dead% was shot with a roman candle by %player_killed%"
+    25:
+      Name: "%player_dead% was launched like a firework by %player_killed%"
+      Description: "%player_dead% was launched like a firework by %player_killed%"
+    26:
+      Name: "%player_dead% was lit up bu %player_killed%"
+      Description: "%player_dead% was lit up bu %player_killed%"
+    27:
+      Name: "%player_dead% was bitten by %player_killed%"
+      Description: "%player_dead% was bitten by %player_killed%"
+    28:
+      Name: "%player_dead% howled into the void for %player_killed%"
+      Description: "%player_dead% howled into the void for %player_killed%"
+    29:
+      Name: "%player_dead% caught the ball thrown by %player_killed%"
+      Description: "%player_dead% caught the ball thrown by %player_killed%"
+    30:
+      Name: "%player_dead% was distracted by a puppy placed by %player_killed%"
+      Description: "%player_dead% was distracted by a puppy placed by %player_killed%"
+    31:
+      Name: "%player_dead% played too rough with %player_killed%"
+      Description: "%player_dead% played too rough with %player_killed%"
+    32:
+      Name: "%player_dead% be sent to Davy Jones'' locker by %player_killed%"
+      Description: "%player_dead% be sent to Davy Jones'' locker by %player_killed%"
+    33:
+      Name: "%player_dead% be cannonballed to death by %player_killed%"
+      Description: "%player_dead% be cannonballed to death by %player_killed%"
+    34:
+      Name: "%player_dead% be shot and killed by %player_killed%"
+      Description: "%player_dead% be shot and killed by %player_killed%"
+    35:
+      Name: "%player_dead% be killed with magic by %player_killed%"
+      Description: "%player_dead% be killed with magic by %player_killed%"
+    36:
+      Name: "%player_dead% be killed with metal by  %player_killed%''s Golem"
+      Description: "%player_dead% be killed with metal by  %player_killed%''s Golem"
+    37:
+      Name: "%player_dead% was glazed in BBQ sauce by %player_killed%"
+      Description: "%player_dead% was glazed in BBQ sauce by %player_killed%"
+    38:
+      Name: "%player_dead% slipped in BBQ sauce off the edge spilled by %player_killed%"
+      Description: "%player_dead% slipped in BBQ sauce off the edge spilled by %player_killed%"
+    39:
+      Name: "%player_dead% was thrown chilli powder at by %player_killed%'"
+      Description: "%player_dead% was thrown chilli powder at by %player_killed%'"
+    40:
+        Name: "%player_dead% was not spicy enough for %player_killed%"
+        Description: "%player_dead% was not spicy enough for %player_killed%"
+    41:
+      Name: "%player_dead% was sliced up by %player_killed%"
+      Description: "%player_dead% was sliced up by %player_killed%"
+    42:
+      Name: "%player_dead% was locked outside during a snow storm by %player_killed%"
+      Description: "%player_dead% was locked outside during a snow storm by %player_killed%"
+    43:
+      Name: "%player_dead% was pushed into a snowbank by %player_killed%"
+      Description: "%player_dead% was pushed into a snowbank by %player_killed%"
+    44:
+      Name: "%player_dead% was hit with a snowball from %player_killed%"
+      Description: "%player_dead% was hit with a snowball from %player_killed%"
+    45:
+      Name: "%player_dead% was shoved down an icy slope by %player_killed%"
+      Description: "%player_dead% was shoved down an icy slope by %player_killed%"
+    46:
+      Name: "%player_dead% got snowed in by %player_killed%''s Golem"
+      Description: "%player_dead% got snowed in by %player_killed%''s Golem"
+    47:
+      Name: "%player_dead% got rekt by %player_killed%"
+      Description: "%player_dead% got rekt by %player_killed%"
+    48:
+      Name: "%player_dead% took the L to %player_killed%"
+      Description: "%player_dead% took the L to %player_killed%"
+    49:
+      Name: "%player_dead% got smacked by %player_killed%"
+      Description: "%player_dead% got smacked by %player_killed%"
+    50:
+      Name: "%player_dead% got roasted by %player_killed%"
+      Description: "%player_dead% got roasted by %player_killed%"
+    51:
+      Name: "%player_dead% got bamboozled by %player_killed%"
+      Description: "%player_dead% got bamboozled by %player_killed%"
+    52:
+      Name: "%player_dead% died in close combat to %player_killed%"
+      Description: "%player_dead% died in close combat to %player_killed%"
+    53:
+      Name: "%player_dead% fought to the edge with %player_killed%"
+      Description: "%player_dead% fought to the edge with %player_killed%"
+    54:
+      Name: "player_dead% fell to the great marksmanship of %player_killed%"
+      Description: "player_dead% fell to the great marksmanship of %player_killed%"
+    55:
+      Name: "%player_dead% stumbled off a ledge with help by %player_killed%"
+      Description: "%player_dead% stumbled off a ledge with help by %player_killed%"
+    56:
+      Name: "%player_killed% wrote down %player_dead% ''s name in the Death Note"
+      Description: "%player_killed% wrote down %player_dead% ''s name in the Death Note"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"
+Sound_Inventory:
+    Sound_Inventory_Name: "&cDeath Sound"
+    1:
+      Name: "&cBlaze death"
+      Description: "&cBlaze death"
+    2:
+      Name: "&cPortal"
+      Description: "&cPortal"
+    3:
+      Name: "&cDragon death"
+      Description: "&cDragon death"
+    4:
+      Name: "&cDolphin death"
+      Description: "&cDolphin death"
+    5:
+      Name: "&cDonkey death"
+      Description: "&cDonkey death"
+    6:
+      Name: "&cGuardian curse"
+      Description: "&cGuardian curse"
+    7:
+      Name: "&cGhast death"
+      Description: "&cGhast death"
+    8:
+      Name: "&cVex death"
+      Description: "&cVex death"
+    9:
+      Name: "&cRavager death"
+      Description: "&cRavager death"
+    10:
+      Name: "&cTNT primed"
+      Description: "&cTNT primed"
+    11:
+      Name: "&cExplode"
+      Description: "&cExplode"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"
+Bed_Break_Inventory:
+    Bed_Break_Inventory_Name: "&cBed Break Trails"
+    1:
+      Name: "&cLightning"
+      Description: "&cLightning"
+    2:
+      Name: "&cSquid FireWork"
+      Description: "&cSquid FireWork"
+    3:
+      Name: "&cGuardian Laser"
+      Description: "&cGuardian Laser"
+    4:
+      Name: "&cGuardian Laser"
+      Description: "&cGuardian Laser"
+    5:
+      Name: "&cGhosts"
+      Description: "&cGhosts"
+    6:
+      Name: "&cTomb"
+      Description: "&cTomb"
+    7:
+      Name: "&cCampfire"
+      Description: "&cCampfire"
+    8:
+      Name: "&cBlood"
+      Description: "&cBlood"
+    9:
+      Name: "&cWither FireWork"
+      Description: "&cWither FireWork"
+    10:
+      Name: "&cBlack Person with coffin"
+      Description: "&cBlack Person with coffin"
+    11:
+      Name: "&cBreak Anvil"
+      Description: "&cExplode"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"
+GG_ChatColor_Inventory:
+    GG_ChatColor_Inventory_Name: "&cGG ChatColor"
+    1:
+      Name: "&cGold"
+      Description: "&cGold"
+    2:
+      Name: "&cBlue"
+      Description: "&cBlue"
+    3:
+      Name: "&cYellow"
+      Description: "&cYellow"
+    4:
+      Name: "&cGreen"
+      Description: "Green"
+    5:
+      Name: "&cDark Purple"
+      Description: "&cDark Purple"
+    6:
+      Name: "&cLight Purple"
+      Description: "&cLight Purple"
+    7:
+      Name: "&cDark Blue"
+      Description: "&cDark Blue"
+    8:
+      Name: "&cRed"
+      Description: "&cRed"
+    9:
+      Name: "&cDark Green"
+      Description: "&cDark Green"
+    10:
+      Name: "&cAqua"
+      Description: "&cAqua"
+    11:
+      Name: "&cBlack"
+      Description: "&cBlack"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"
+Frame_Inventory:
+    Frame_Inventory_Name: "&cCustom Spray"
+    1:
+      Name: "&cSpray#1"
+      Description: "&cSpray#1"
+    2:
+      Name: "&cSpray#2"
+      Description: "&cSpray#2"
+    3:
+      Name: "&cSpray#3"
+      Description: "&cSpray#3"
+    4:
+      Name: "&cSpray#4"
+      Description: "&cSpray#4"
+    5:
+      Name: "&cSpray#5"
+      Description: "&cSpray#5"
+    6:
+      Name: "&cSpray#6"
+      Description: "&cSpray#6"
+    7:
+      Name: "&cSpray#7"
+      Description: "&cSpray#7"
+    8:
+      Name: "&cSpray#8"
+      Description: "&cSpray#8"
+    9:
+      Name: "&cSpray#9"
+      Description: "&cSpray#9"
+    10:
+      Name: "&cSpray#10"
+      Description: "&cSpray#10"
+    11:
+      Name: "&cSpray#11"
+      Description: "&cSpray#11"
+    Default: "&cDefault"
+    Back: "&cBack"
+    Next_Page: "&cNext page"

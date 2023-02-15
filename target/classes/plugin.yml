@@ -1,0 +1,10 @@
+name: PerfectEffects
+version: '1.0-SNAPSHOT'
+main: org.aneras.mc.perfecteffects.PerfectEffects
+api-version: 1.15
+authors: [ Aneras ]
+
+commands:
+  PfEffects:
+    usage:
+      -/PfEffects
